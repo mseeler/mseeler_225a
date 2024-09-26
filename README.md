@@ -1,4 +1,4 @@
-# mseeler_225a
+# Michelle Seeler
  
 This is my repo for BMS 225a - Data Science. My work is organized as follows:
 
